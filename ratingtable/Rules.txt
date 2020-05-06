@@ -1,0 +1,12 @@
+Premier league rules of ranking regulations:
+If any clubs finish with the same number of points,
+their position in the Premier League table is determined by goal difference,
+then the number of goals scored.
+If the teams still cannot be separated, they will be awarded the same position in the table.
+
+Seria A rules of ranking regulations:
+If two or more teams are tied in points (for any place), the deciding tie-breakers are as follows:
+1. Head-to-head records (results and points)
+2. Goal difference of head-to-head games
+3. Goal difference overall
+4. Higher number of goals scored
